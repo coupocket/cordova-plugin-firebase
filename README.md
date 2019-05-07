@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/arnesson/cordova-plugin-firebase.svg?branch=master)](https://travis-ci.org/arnesson/cordova-plugin-firebase)
 
+NOTE: This is a 'private' fork only to make it easier to "npm install" this "custom" copy of cordova-plugin-firebase, to not have to wait for official plugin releases for minor urgent fixes, or merged-pull-requests. We only use this temporarily till the official plugin catches up, you should prefer to use the official cordova-plugin-firebase wherever possible.
+
 # cordova-plugin-firebase
 This plugin brings push notifications, analytics, event tracking, crash reporting and more from Google Firebase to your Cordova project!  Android and iOS supported.
 
