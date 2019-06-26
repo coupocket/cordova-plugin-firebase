@@ -8,7 +8,7 @@
     "url": "https://github.com/sachingarg05/cordova-plugin-firebase"
   },
   "name": "cordova-plugin-rawzor-firebase",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "description": "Cordova plugin for Google Firebase",
   "cordova": {
     "id": "cordova-plugin-rawzor-firebase",
