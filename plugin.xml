@@ -78,6 +78,9 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 		<config-file target="*.entitlements" parent="aps-environment">
           <string>production</string>
         </config-file>
+		<config-file target="Resources/*.entitlements" parent="aps-environment">
+          <string>production</string>
+        </config-file>
 
 		<resource-file src="src/ios/GoogleService-Info.plist" />
 
